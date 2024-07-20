@@ -70,8 +70,8 @@
 
 ### Sales Dashboard
 
-![Sales Overview](../images/Sales Overview.png)
-![Profit Overview](../images/Profit Overview.png)
+![Sales Overview](../images/Sales_Overview.png)
+![Profit Overview](../images/Profit_Overview.png)
 
 ---
 
@@ -86,6 +86,13 @@ The Power BI report file can be downloaded from the following link:
 ## Conclusion
 
 These steps and insights demonstrate the effective use of Power BI and Excel to transform raw data into actionable business intelligence, aiding Tailwind Traders in strategic decision-making.
+
+---
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
+
 
 ---
 
