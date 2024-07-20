@@ -21,7 +21,7 @@ The dataset is sourced from [Divvy Trip Data](https://divvy-tripdata.s3.amazonaw
 - **Rideable Type Preference**: Examined preferences for different types of bikes.
 
 ## Visualizations
-![Tableau Visualizations](https://public.tableau.com/app/profile/ewa.wachnik/vizzes)
+- The visualizations for this analysis can be viewed on [Tableau Public](https://public.tableau.com/app/profile/ewa.wachnik/vizzes).
 
 ## License
 The data is provided under the Motivate International Inc. license. See the LICENSE file for more details.
