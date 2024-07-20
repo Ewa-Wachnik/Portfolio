@@ -69,9 +69,9 @@
 - Below are some screenshots of the Power BI dashboards created for this project:
 
 ### Sales Dashboard
+![Sales_Overview](https://github.com/user-attachments/assets/fe607da6-4a97-4e09-9bcd-b5989250499d)
+![Profit_Overview](https://github.com/user-attachments/assets/1f2f3b77-0f61-4456-b751-18eb98f09abb)
 
-![Sales Overview](../images/Sales_Overview.png)
-![Profit Overview](../images/Profit_Overview.png)
 
 ---
 
