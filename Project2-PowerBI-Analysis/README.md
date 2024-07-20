@@ -94,9 +94,3 @@ These steps and insights demonstrate the effective use of Power BI and Excel to 
 This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
 
 
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](../LICENSE) file for details.
-
